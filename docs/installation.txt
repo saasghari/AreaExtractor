@@ -6,6 +6,6 @@ install requirements:
 
 install AreaExtractor package:
 	
-	1- from local system: >pip install F:\Projects\Trajectory\implement\AreasExtractor\AreaExtractor
+	1- from local system: >pip install F:\Projects\Trajectory\implement\AreaExtractor\AreaExtractor
 	
 	2- from GitHub:	>pip install git+https://github.com/saasghari/AreaExtractor.git
