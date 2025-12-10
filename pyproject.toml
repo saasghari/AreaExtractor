@@ -1,0 +1,19 @@
+[project]
+name = "AreaExtractor"
+version = "0.0.1"
+authors = [
+  { name="saasghari", email="saasghari@gmail.com" },
+]
+description = "This package is used to search and download areas information from open street map."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/saasghari"
+Issues = "https://github.com/saasghari/AreaExtractor"

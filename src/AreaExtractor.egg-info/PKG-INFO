@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: AreaExtractor
+Version: 0.0.1
+Summary: This package is used to search and download areas information from open street map.
+Author-email: saasghari <saasghari@gmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/saasghari
+Project-URL: Issues, https://github.com/saasghari/AreaExtractor
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# AreaExtractor
+This package is used to search and download areas information from open street map.

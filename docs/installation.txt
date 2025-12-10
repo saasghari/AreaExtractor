@@ -1,0 +1,11 @@
+install requirements:
+ 	
+	1- OSMnx package: >pip install osmnx
+
+
+
+install AreaExtractor package:
+	
+	1- from local system: >pip install F:\Projects\Trajectory\implement\AreasExtractor\AreaExtractor
+	
+	2- from GitHub:	>pip install git+https://github.com/saasghari/AreaExtractor.git
